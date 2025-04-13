@@ -6,7 +6,7 @@ El modelamiento de Op-Amps facilita el análisis y diseño de circuitos electró
 
 ---
 
-## 📘 Conceptos Clave
+## 🔑 Conceptos Clave
 
 - **Op-Amp (Amplificador Operacional):** Dispositivo electrónico de ganancia muy alta que amplifica la diferencia entre dos entradas.
 - **Entradas:**
@@ -33,13 +33,13 @@ El modelamiento de Op-Amps facilita el análisis y diseño de circuitos electró
 
 ---
 
-## 🧪 Ejemplo 1: Amplificador Inversor
+## 📚 Ejemplo 1: Amplificador Inversor
 
-### 🎯 Enunciado
+### Enunciado
 
 Diseñar un amplificador inversor con una ganancia de -10. Se tiene una resistencia de entrada \( R_1 = 1\,k\Omega \). Hallar \( R_f \) y la salida para \( V_{in} = 0.5\,V \).
 
-### ⚙️ Solución
+###  Solución
 
 La fórmula para la ganancia de un amplificador inversor es:
 
@@ -59,7 +59,7 @@ Para una entrada de \( 0.5\,V \):
 V_{out} = -\frac{10k\Omega}{1k\Omega} \cdot 0.5 = -5\,V
 ```
 
-### 🔧 Resultado:
+### Resultado:
 
 - \( R_f = 10\,k\Omega \)
 - \( V_{out} = -5\,V \)
@@ -68,13 +68,13 @@ V_{out} = -\frac{10k\Omega}{1k\Omega} \cdot 0.5 = -5\,V
 
 ---
 
-## 🧪 Ejemplo 2: Amplificador No Inversor
+##📚 Ejemplo 2: Amplificador No Inversor
 
-### 🎯 Enunciado
+### Enunciado
 
 Diseñar un amplificador no inversor con una ganancia de 6. Se fija \( R_1 = 1\,k\Omega \). Hallar \( R_f \) y calcular la salida para \( V_{in} = 2\,V \).
 
-### ⚙️ Solución
+### Solución
 
 La fórmula de ganancia es:
 
@@ -94,7 +94,7 @@ Salida para \( V_{in} = 2\,V \):
 V_{out} = 6 \cdot 2 = 12\,V
 ```
 
-### 🔧 Resultado:
+### Resultado:
 
 - \( R_f = 5\,k\Omega \)
 - \( V_{out} = 12\,V \)
@@ -103,7 +103,7 @@ V_{out} = 6 \cdot 2 = 12\,V
 
 ---
 
-## 🧩 Conclusión
+## Conclusión
 
 El modelamiento de amplificadores operacionales permite comprender, diseñar y optimizar una amplia gama de circuitos analógicos. Estos dispositivos, al ser configurables para diversas funciones, son herramientas indispensables en sistemas electrónicos, automatización, procesamiento de señales y control. Su estudio teórico y práctico es fundamental para cualquier ingeniero en electrónica o mecatrónica.
 
