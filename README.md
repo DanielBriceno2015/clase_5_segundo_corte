@@ -107,3 +107,12 @@ V_{out} = 6 \cdot 2 = 12\,V
 
 El modelamiento de amplificadores operacionales permite comprender, diseñar y optimizar una amplia gama de circuitos analógicos. Estos dispositivos, al ser configurables para diversas funciones, son herramientas indispensables en sistemas electrónicos, automatización, procesamiento de señales y control. Su estudio teórico y práctico es fundamental para cualquier ingeniero en electrónica o mecatrónica.
 
+## Referencias
+
+ 
+Universidad del País Vasco. (s.f.). Capítulo 3: El modelo keynesiano I. OpenCourseWare UPV/EHU. Recuperado el 13 de abril de 2025, de https://ocw.ehu.eus/file.php/83/cap31_html/capitulo-3.html
+
+carakenio73. "Dinámica de un sistema masa-resorte-amortiguador." dademuchconnection, 18 de julio de 2017, https://dademuchconnection.wordpress.com/2017/07/18/dinamica-de-un-sistema-masa-resorte-amortiguador/.
+
+ 
+
